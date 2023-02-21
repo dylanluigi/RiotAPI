@@ -20,6 +20,11 @@
             <artifactId>orianna</artifactId>
             <version>4.0.0-rc8</version>
         </dependency>
+        <dependency>
+            <groupId>com.merakianalytics.orianna</groupId>
+            <artifactId>orianna-examples</artifactId>
+            <version>3.0.4</version>
+        </dependency>
 
     </dependencies>
 
